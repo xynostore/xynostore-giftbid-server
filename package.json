@@ -1,0 +1,18 @@
+
+{
+  "name": "xynostore-giftbid-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "XynoStore Gift Bid TikTok LIVE connector",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "tiktok-live-connector": "^2.1.0"
+  }
+}
