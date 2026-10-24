@@ -1,0 +1,1 @@
+# xynostore-giftbid-server
